@@ -42,7 +42,7 @@ class App extends Component {
         <Navbar
           message={this.state.message}
           score={this.state.score}
-          topScore={this.state.top}
+          topScore={this.state.topScore}
         />
         <Jumbotron />
         <Wrapper>
