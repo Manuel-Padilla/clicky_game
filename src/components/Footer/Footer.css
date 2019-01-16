@@ -1,0 +1,17 @@
+footer {
+  background: #d3ed2c;
+  height: 100px;
+  position: relative;
+  color: #fff;
+  overflow: auto;
+}
+
+.footer-copyright {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #09a0af;
+  padding: 8px;
+  font-weight: 600;
+}
