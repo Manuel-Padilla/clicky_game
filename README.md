@@ -1,6 +1,6 @@
 # Clicky Game! Martin Edition
 
-###### A memory game with React.
+A memory game with React.
 
 ## Tehcnologies Used
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-Clicky Game! Martin Edition is an entertaining memory game created with React that allows user to input their favorite burger. Whenever a user submits a burger's name, your app will display the burger to be devoured.
+Clicky Game! Martin Edition is an entertaining memory game created with React.
 
 ## Instructions
 
@@ -26,6 +26,6 @@ The application keeps track of the users Best Score, and updates it when the use
 
 ## View Live
 
-- To view a live version of the site please visit https://protected-headland-94282.herokuapp.com/.
+- To view a live version of the site please visit https://clicky-game-martin-edition.herokuapp.com/
 
-<a href="https://protected-headland-94282.herokuapp.com/." target="_blank"><img src="https://github.com/Manuel-Padilla/clicky_game/blob/master/public/snapshot.png" alt="Clicky Game!" style="width: 50%; height: 50%;"></a>
+<a target="_blank"><img src="https://github.com/Manuel-Padilla/clicky_game/blob/master/public/snapshot.png" alt="Clicky Game!" style="width: 50%; height: 50%;"></a>
