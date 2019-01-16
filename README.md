@@ -26,6 +26,6 @@ The application keeps track of the users Best Score, and updates it when the use
 
 ## View Live
 
-- To view a live version of the site please visit https://clicky-game-martin-edition.herokuapp.com/
+- To view a live version of the site please visit <a target="_blank" src="https://clicky-game-martin-edition.herokuapp.com/"></a>
 
-<a target="_blank"><img src="https://github.com/Manuel-Padilla/clicky_game/blob/master/public/snapshot.png" alt="Clicky Game!" style="width: 50%; height: 50%;"></a>
+<img src="https://github.com/Manuel-Padilla/clicky_game/blob/master/public/snapshot.png" alt="Clicky Game!" style="width: 50%; height: 50%;">
