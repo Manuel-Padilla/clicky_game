@@ -1,9 +1,15 @@
 .wrapper {
+  margin: auto;
+  max-width: 925px;
   display: flex;
-  flex-flow: row wrap;
-  padding: 20px;
-  justify-content: space-around;
-  align-content: flex-start;
-  overflow: auto;
+  min-height: 80%;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 50px 0;
   background-color: #65e74e;
+}
+
+@media (min-width: 1024px) {
+  .wrapper {
+  }
 }

@@ -1,11 +1,15 @@
 .navbar-custom {
   background-color: #09a0af;
-  font-size: calc(10px + 14 * (100vw - 320px) / 800);
+  font-size: 1.5rem;
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
-.navbar a {
-  text-decoration: none;
-  color: #fff;
-  font-weight: 900;
+span {
+  padding: 20px;
+}
+
+@media (min-width: 1024px) {
+  .navbar-custom {
+    font-size: 2rem;
+  }
 }
