@@ -26,6 +26,6 @@ The application keeps track of the users Best Score, and updates it when the use
 
 ## View Live
 
-- Wanna play? Click the image below...
+- Wanna play? Press and hold "ctrl" or "cmd" and click the image below...
 
 <a href="https://clicky-game-martin-edition.herokuapp.com/" target="_blank"><img src="https://github.com/Manuel-Padilla/clicky_game/blob/master/public/snapshot.png" alt="Clicky Game! Martin Edition" style="width: 50%; height: 50%;"></a>
